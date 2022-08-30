@@ -41,9 +41,11 @@ The trend for December is similar as observed in the figure. The red horizontal 
 ![Station Temp June](Resources/Station_Temp_Dec.png)
 
 
-When examining the average amount of rainfall aggregated by station, it is immediately apparent that in June at least one station is recording a significant amount more average precipitation that the others  and in December at least two stations see an significant difference in average precipitation.  This raises questions as to whether these locations are as desirable as maybe other locations on the island to build the shop.
+When examining the average amount of rainfall aggregated by station, it is immediately apparent that in June at least one station is recording a significant amount more average precipitation that the others  and in December at least two stations see a significant difference in average precipitation.  This raises questions as to whether these locations are as desirable as maybe other locations on the island to build the shop.
 
 ![Avg Station Precip June](Resources/avg_station_precip_june.png)
   
 
 ![Avg Station Precip Dec](Resources/avg_station_precip_dec.png)
+
+Although Oahu is a nice fit for the Surf 'n Shake Shop, this analysis will help the investors narrow down an ideal location on the island to build the shop.
